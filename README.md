@@ -4,7 +4,7 @@
 
 * [Search Engine Optimization](#Search-Engine-Optimization)
 * [Online Reputation Management](#Online-Reputation-Management)
-* [Social Media Marketing](#Social-Media-Maketing)
+* [Social Media Marketing](#Social-Media-Marketing)
 
 ## Search Engine Optimization
 
